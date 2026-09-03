@@ -1,0 +1,12 @@
+{
+  "name": "CODEX STUDYS — Smart Learning Platform",
+  "short_name": "CODEX STUDYS",
+  "description": "A focused learning workspace for courses, practice, notes and progress.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#080a0f",
+  "icons": [
+    { "src": "assets/codex-telegram.png", "sizes": "1254x1254", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
